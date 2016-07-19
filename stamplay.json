@@ -1,0 +1,10 @@
+{
+  "appId": "speech-to-text",
+  "apiKey": "c250d52e0dbc4a9ba5b74cffdd9a33d3c7564132269454019157ca0afe7268e2",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
